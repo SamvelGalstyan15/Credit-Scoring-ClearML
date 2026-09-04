@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+
+clearml.conf
+
+.venv/
+venv/
+data/
